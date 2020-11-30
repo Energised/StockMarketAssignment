@@ -37,18 +37,21 @@ public class TradingServer
 
     public static void main(String[] args)
     {
+        // can't use these defaults in later testing
+        // so commented out for now
+
         // setup default traders
-        Trader t1 = new Trader();
-        Trader t2 = new Trader();
-        Trader t3 = new Trader();
-        Trader t4 = new Trader();
+        //Trader t1 = new Trader();
+        //Trader t2 = new Trader();
+        //Trader t3 = new Trader();
+        //Trader t4 = new Trader();
 
-        t1.set_stock_owned(true);
+        //t1.set_stock_owned(true);
 
-        stock_market.add_trader(t1);
-        stock_market.add_trader(t2);
-        stock_market.add_trader(t3);
-        stock_market.add_trader(t4);
+        //stock_market.add_trader(t1);
+        //stock_market.add_trader(t2);
+        //stock_market.add_trader(t3);
+        //stock_market.add_trader(t4);
 
         run_server();
     }

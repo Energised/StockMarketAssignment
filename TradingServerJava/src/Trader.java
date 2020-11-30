@@ -37,7 +37,7 @@ public class Trader
 
     public String toString()
     {
-        return "TRADER ID = " + this.get_id() + "\n STOCK OWNED = " + this.get_stock_owned() + "\n";
+        return this.get_id() + " " + this.get_stock_owned();
     }
 
     public static void main(String[] args)
