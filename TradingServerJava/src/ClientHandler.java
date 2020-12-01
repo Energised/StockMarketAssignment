@@ -98,11 +98,11 @@ public class ClientHandler implements Runnable
         {
             // remove user from the stock market
             stock_market.get_traders_map().remove(t.get_id());
-            System.out.println("trader removed from market before leaving");
+            System.out.println("Trader removed from market before leaving");
             // if leaving user owns the stock, give it to someone else
             if(t.get_stock_owned())
             {
-                System.out.println("leaving trader owns the stock");
+                System.out.println("Leaving trader owns the stock");
                 // while loop, check for null entrys in the map
                 // increment i until the first not-null trader is available
                 if(stock_market.get_traders_map().size() > 0)

@@ -1,0 +1,13 @@
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\obj\Debug\netcoreapp3.1\TradingClientCS.csprojAssemblyReference.cache
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\obj\Debug\netcoreapp3.1\TradingClientCS.AssemblyInfoInputs.cache
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\obj\Debug\netcoreapp3.1\TradingClientCS.AssemblyInfo.cs
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\obj\Debug\netcoreapp3.1\TradingClientCS.csproj.CoreCompileInputs.cache
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\bin\Debug\netcoreapp3.1\TradingClientCS.exe
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\bin\Debug\netcoreapp3.1\TradingClientCS.deps.json
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\bin\Debug\netcoreapp3.1\TradingClientCS.runtimeconfig.json
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\bin\Debug\netcoreapp3.1\TradingClientCS.runtimeconfig.dev.json
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\bin\Debug\netcoreapp3.1\TradingClientCS.dll
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\bin\Debug\netcoreapp3.1\TradingClientCS.pdb
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\obj\Debug\netcoreapp3.1\TradingClientCS.dll
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\obj\Debug\netcoreapp3.1\TradingClientCS.pdb
+C:\Users\wan\Documents\UNI\ce303-ap\TradingClientCS\obj\Debug\netcoreapp3.1\TradingClientCS.genruntimeconfig.cache

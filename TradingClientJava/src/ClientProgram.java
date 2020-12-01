@@ -75,8 +75,6 @@ public class ClientProgram
                             continue;
                         }
                         System.out.println("Enter ID of trader buying the stock: ");
-                        // TODO: check if buyer exists in market
-                        // TODO: do in either this/StockMarket/ClientHandler
                         int buyer = Integer.parseInt(in.nextLine());
                         client.trade(seller, buyer);
                         break;
