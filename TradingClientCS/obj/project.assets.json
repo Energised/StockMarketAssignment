@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wan\\Documents\\UNI\\ce303-ap\\TradingClientCS\\TradingClientCS.csproj",
+      "projectUniqueName": "C:\\Users\\wan\\Documents\\StockMarketAssignment\\TradingClientCS\\TradingClientCS.csproj",
       "projectName": "TradingClientCS",
-      "projectPath": "C:\\Users\\wan\\Documents\\UNI\\ce303-ap\\TradingClientCS\\TradingClientCS.csproj",
+      "projectPath": "C:\\Users\\wan\\Documents\\StockMarketAssignment\\TradingClientCS\\TradingClientCS.csproj",
       "packagesPath": "C:\\Users\\wan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wan\\Documents\\UNI\\ce303-ap\\TradingClientCS\\obj\\",
+      "outputPath": "C:\\Users\\wan\\Documents\\StockMarketAssignment\\TradingClientCS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wan\\AppData\\Roaming\\NuGet\\NuGet.Config"
